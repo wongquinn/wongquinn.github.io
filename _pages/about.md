@@ -48,14 +48,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.10*, Scholarship for Incoming Freshmen, Zhejiang University, 10,000 ￥ (about 1,369 US $).
 - *2019.11*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 20,000 ￥ (about 2,738 US $).
 - *2018.10*, "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics, 5,000 ￥ (about 687 US $).
-- *2018.10*, "Shuidi" Scholarship, Nanjing University of Aeronautics and Astronautics, 1,000 ￥ (137 US $).
+- *2018.10*, "Shuidi" Scholarship, Nanjing University of Aeronautics and Astronautics, 1,000 ￥ (about 137 US $).
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Ph.D. Student, Aerospace Engineering, Zhejiang University, Hangzhou, China. 
-- *2017.09 - 2020.03*, Master of Engineering, Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
+- *2017.09 - 2020.03*, M.Eng, Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 - *2014.09 - 2015.06*, Exchange Student, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China.
-- *2013.09 - 2014.06*, Bachelor of Engineering, Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
-
+- *2013.09 - 2014.06*, B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
+- *2010.09 - 2013.06*, High School, Pingchang Middle School, Pingchang, Sichuan, China.
+  
 # 💬 Invited Talks
 - *2099.09*, TBD.  \| [\[video\]](https://github.com/)
 
