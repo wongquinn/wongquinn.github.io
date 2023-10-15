@@ -23,9 +23,10 @@ I graduated from the School of Materials Science and Engineering, Shandong Unive
 - *2023.10*: &nbsp;🎉🎉 TBD. 
 
 # 📝 Publications 
-- [A New Smoothing Technique for Bang-Bang Optimal Control Problems[C]]([https://arxiv.org/abs/2309.03069]), **Wang Kun**, Chen Zheng, et al., **AIAA SciTech 2024**
-- [过载和攻击时间约束下的非线性最优制导方法[J]]([https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD65GA12tdKgW-TX_zh6mCHbwzM3yD9th7W2kCv0-PDm5ebzUuvpFeRge&uniplatform=NZKPT]), **Wang Kun**, Duan Xinran, Chen Zheng, et al., **Systems Engineering and Electronics (in Chinese)**
-- [Elongation of curvature-bounded path[J]. Automatica, 2023, 151: 110936.]([https://www.sciencedirect.com/science/article/abs/pii/S0005109823000869]), Chen Zheng, **Wang Kun**, Shi Heng. 
+- [A New Smoothing Technique for Bang-Bang Optimal Control Problems[C]](https://arxiv.org/abs/2309.03069), **Wang Kun**, Chen Zheng, et al., **AIAA SciTech 2024**
+- [过载和攻击时间约束下的非线性最优制导方法[J]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD65GA12tdKgW-TX_zh6mCHbwzM3yD9th7W2kCv0-PDm5ebzUuvpFeRge&uniplatform=NZKPT), **Wang Kun**, Duan Xinran, Chen Zheng, et al., **Systems Engineering and Electronics (in Chinese)**
+- [Elongation of curvature-bounded path[J]. Automatica, 2023, 151: 110936.](https://www.sciencedirect.com/science/article/abs/pii/S0005109823000869), Chen Zheng, **Wang Kun**, Shi Heng.
+- [Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints[J]. Journal of Guidance, Control, and Dynamics, 2022, 45(9): 1614-1626.](https://arc.aiaa.org/doi/abs/10.2514/1.G006666), **Wang Kun**, Chen Zheng, Wang Han, et al.
 
 # 🎖 Honors and Awards
 - *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 ￥ (about 4,106 US $). 
