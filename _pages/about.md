@@ -43,12 +43,12 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.10* National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 Yuan (about 4,106 US $). 
-- *2023.06* "Golden Years" Overseas Exchange Scholarship, Zhejiang University.
-- *2020.10* Scholarship for Incoming Freshmen, Zhejiang University, 10,000 Yuan (about 1,369 US $).
-- *2019.11* National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 20,000 Yuan (about 2,738 US $).
-- *2018.10* "ZHZ" Scholarship, Beijing Zhonghangzhi Co., LTD & Nanjing University of Aeronautics and Astronautics, 5,000 Yuan (about 687 US $).
-- *2018.10* "Shuidi" Scholarship, Nanjing University of Aeronautics and Astronautics, 1,000 Yuan (137 US $).
+- *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 Yuan (about 4,106 US $). 
+- *2023.06*, "Golden Years" Overseas Exchange Scholarship, Zhejiang University.
+- *2020.10*, Scholarship for Incoming Freshmen, Zhejiang University, 10,000 Yuan (about 1,369 US $).
+- *2019.11*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 20,000 Yuan (about 2,738 US $).
+- *2018.10*, "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics, 5,000 Yuan (about 687 US $).
+- *2018.10*, "Shuidi" Scholarship, Nanjing University of Aeronautics and Astronautics, 1,000 Yuan (137 US $).
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Ph.D. Student, Aerospace Engineering, Zhejiang University, Hangzhou, China. 
