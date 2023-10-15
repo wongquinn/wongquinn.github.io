@@ -57,4 +57,4 @@ I graduated from School of Materials Science and Engineering, Shandong Universit
 
 # 💻 Skills
 - Matlab/Simulink, Python, C/C++
-- Chinese (native), English (IELTS 7.0 (7.0/8.5/6.5/6.5), Cambridge Business English Certificate Higher)
+- Chinese (native), English [IELTS 7.0 (7.0/8.5/6.5/6.5), Cambridge Business English Certificate Higher, CET-6 (580)]
