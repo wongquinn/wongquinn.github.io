@@ -54,5 +54,6 @@ I graduated from the School of Materials Science and Engineering, Shandong Unive
 # 💬 Invited Talks
 - *2099.09*, TBD.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2099.05*, [TBD](https://github.com/).
+# 💻 Skills
+- Matlab/Simulink, Python
+- Chinese (native), English (IELTS 7.0 (7.0/8.5/6.5/6.5), Cambridge Business English Certificate Higher)
