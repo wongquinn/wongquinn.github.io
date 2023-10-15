@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from the School of Materials Science and Engineering, Shandong University with a bachelor’s degree. After I found that I was passionate about Aerospace Engineering, I switched my major and received the M.Eng from Nanjing University of Aeronautics and Astronautics. Right now, I am pursuing the Ph.D. at Zhejiang University, and my research interest includes optimal guidance and path planning for autonomous vehicles.
+I graduated from the School of Materials Science and Engineering, Shandong University with a bachelor’s degree. After I found that I was passionate about Aerospace Engineering, I switched my major and received the M.Eng from Nanjing University of Aeronautics and Astronautics. Right now, I am pursuing the Ph.D. at Zhejiang University, advised by Prof. Chen Zheng and Li Jun, and my research interest includes optimal guidance and path planning for autonomous vehicles.
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 TBD. 
