@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/wongquinn"
   google_plus      :
   keybase          :
   instagram        :
@@ -46,7 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
+  bilibili         : "https://space.bilibili.com/280167327"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -54,7 +54,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             :
+  zhihu            : "https://www.zhihu.com/people/wang-zhe-xuan-66"
   youtube          :
   wikipedia        :
 
