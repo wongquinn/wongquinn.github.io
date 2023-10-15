@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "WangKun"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D. student with School of Aeronautics and Astronautics, Zhejiang University. Focusing on optimal guidance and control for autonomous vehicles."
 repository               : "wongquinn/wongquinn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Wang Kun (王坤)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "wongquinn@zju.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Wang-Kun-29"
+  researchgate     : "https://www.researchgate.net/profile/Wang-Kun-29"
   uri              :
   bitbucket        :
   codepen          :
