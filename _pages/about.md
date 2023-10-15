@@ -34,7 +34,8 @@ I graduated from the School of Materials Science and Engineering, Shandong Unive
 - Aerodynamic characteristics analysis of twin-rotor in tandem helicopter[J]. Adv. Aeronaut. Sci. Eng 11 (2020): 167-176. Chen Jianwei, Zhu Qinghua, **Wang Kun**, et al. (in Chinese)
 - Aerodynamic optimization design of general parameters for cycloidal propeller in hover based on surrogate model[J]. Journal of Aerospace Power, 2019, 34(8): 1741-1750. Zeng Jianan, Zhu Qinghua, **Wang Kun**, et al.
 - Influence of canted tail rotor on helicopter’s design CG envelope [J]. Flight Dynamics, 2019,37(06):84-88. **Wang Kun**, Zhu Qinghua, et al. (in Chinese)
-- Calculation of design center of gravity envelope of civil aircraft[J]. Flight Dynamics, 2019,37(04):21-24. (in Chinese)
+- Calculation of design center of gravity envelope of civil aircraft [J]. Flight Dynamics, 2019,37(04):21-24.**Wang Kun**, Zhu Qinghua, et al. (in Chinese)
+- Multiobjective Optimization of Gerneral Parameters of High-Speed Compound Helicopter Based on Design for 6σ [J]. Journal of Nanjing University of Aeronautics and Astronautics,2018,50(2):207-212. **Wang Kun**, Zhu Qinghua, et al. (in Chinese)
 
 # 🎖 Honors and Awards
 - *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 ￥ (about 4,106 US $). 
