@@ -32,6 +32,7 @@ I graduated from the School of Materials Science and Engineering, Shandong Unive
 - Numerical Study on Influence of Key Parameters of Aerodynamic Characteristics of Shaftless Ducted Rotor[J]. Transactions of Nanjing University of Aeronautics & Astronautics, 2020, 37(5). Shen Suiyuan, Zhu Qinghua, **Wang Kun**, et al.
 - Influence of blade negative twist on aerodynamic performance of cycloidal propeller[J], Journal of Aerospace Power, 2020, 35(3): 620-632. Zeng Jianan, Zhu Qinghua, **Wang Kun**, et al.
 - Aerodynamic characteristics analysis of twin-rotor in tandem helicopter[J]. Adv. Aeronaut. Sci. Eng 11 (2020): 167-176. Chen Jianwei, Zhu Qinghua, **Wang Kun**, et al. (in Chinese)
+- Aerodynamic optimization design of general parameters for cycloidal propeller in hover based on surrogate model[J]. Journal of Aerospace Power, 2019, 34(8): 1741-1750. Zeng Jianan, Zhu Qinghua, **Wang Kun**, et al.
 
 # 🎖 Honors and Awards
 - *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 ￥ (about 4,106 US $). 
