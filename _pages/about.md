@@ -23,18 +23,9 @@ I graduated from the School of Materials Science and Engineering, Shandong Unive
 - *2023.10*: &nbsp;🎉🎉 TBD. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [AIAA](https://github.com), A, B, C, **CVPR 2020**
+- [A New Smoothing Technique for Bang-Bang Optimal Control Problems[C]]([https://arxiv.org/abs/2309.03069]), **Wang Kun**, Chen Zheng, et al., **AIAA SciTech 2024**
+- [过载和攻击时间约束下的非线性最优制导方法[J]]([https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD65GA12tdKgW-TX_zh6mCHbwzM3yD9th7W2kCv0-PDm5ebzUuvpFeRge&uniplatform=NZKPT]), **Wang Kun**, Duan Xinran, Chen Zheng, et al., **Systems Engineering and Electronics (in Chinese)**
+- [Elongation of curvature-bounded path[J]. Automatica, 2023, 151: 110936.]([https://www.sciencedirect.com/science/article/abs/pii/S0005109823000869]), Chen Zheng, **Wang Kun**, Shi Heng. 
 
 # 🎖 Honors and Awards
 - *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 ￥ (about 4,106 US $). 
@@ -55,5 +46,5 @@ I graduated from the School of Materials Science and Engineering, Shandong Unive
 - *2099.09*, TBD.  \| [\[video\]](https://github.com/)
 
 # 💻 Skills
-- Matlab/Simulink, Python
+- Matlab/Simulink, Python, C/C++
 - Chinese (native), English (IELTS 7.0 (7.0/8.5/6.5/6.5), Cambridge Business English Certificate Higher)
