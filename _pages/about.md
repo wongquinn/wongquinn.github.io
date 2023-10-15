@@ -60,4 +60,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2099.09*, TBD.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2099.05*, [Lorem](https://github.com/), China.
+- *2099.05*, [TBD](https://github.com/).
