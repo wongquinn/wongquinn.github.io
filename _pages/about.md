@@ -47,10 +47,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2020.09 - 2024.06 (expected)*, Aerospace Engineering, Zhejiang University, Hangzhou, China, ph.D. Student. 
-- *2017.09 - 2020.03*, Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China, Master of Engineering.
-- *2014.09 - 2015.06*, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China, Exchange Student.
-- *2013.09 - 2014.06*, Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China, Bachelor of Engineering.
+- *2020.09 - 2024.06*, Ph.D. Student, Aerospace Engineering, Zhejiang University, Hangzhou, China. 
+- *2017.09 - 2020.03*, Master of Engineering, Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
+- *2014.09 - 2015.06*, Exchange Student, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China.
+- *2013.09 - 2014.06*, Bachelor of Engineering, Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
