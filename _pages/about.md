@@ -53,7 +53,7 @@ I was born and raised in Pingchang, Sichuan. I attended high school at Pingchang
 - *2010.09 - 2013.06*, High School, Pingchang Middle School, Pingchang, Sichuan, China.
   
 # 💬 Visitors Info
-- *2099.09*, TBD. (<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ib8qyqckov&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>)
+- *2099.09*, TBD. <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ib8qyqckov&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 # 💻 Skills
 - Matlab/Simulink, Python, C/C++
