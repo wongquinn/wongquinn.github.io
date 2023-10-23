@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "WangKun"
-description              : "Ph.D. student with School of Aeronautics and Astronautics, Zhejiang University. Focusing on optimal guidance and control for autonomous vehicles."
+description              : "Ph.D. student with School of Aeronautics and Astronautics, Zhejiang University. Focusing on optimal guidance and data-driven control for autonomous vehicles."
 repository               : "wongquinn/wongquinn.github.io"
 google_scholar_stats_use_cdn : true
 
