@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I was born and raised in Pingchang, Sichuan. I attended high school at Pingchang Middle School. Then, I graduated from School of Materials Science and Engineering, Shandong University with a bachelor’s degree. After I found that I was passionate about Aerospace Engineering, I went on to attend Nanjing University of Aeronautics and Astronautics, where I studied flight dynamics and control of rotorcrafts. Currently, I am pursuing the Ph.D. at Zhejiang University, advised by Prof. Chen Zheng and Li Jun, and my research interest covers optimal guidance, data-driven control, and path planning for autonomous vehicles, including missiles, unmanned aerial vehicles, and spacecrafts.
+I was born and raised in Pingchang, Sichuan. I attended high school at Pingchang Middle School. Then, I graduated from School of Materials Science and Engineering, Shandong University with a bachelor’s degree. After I found that I was passionate about Aerospace Engineering, I went on to attend Nanjing University of Aeronautics and Astronautics, where I studied flight dynamics and control of rotorcrafts. Currently, I am pursuing the Ph.D. at Zhejiang University, advised by Prof. Chen Zheng and Li Jun, and my research interest covers optimal guidance, data-driven control, and path planning for autonomous vehicles, including missiles and unmanned aerial vehicles, et cetera.
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 TBD. 
@@ -48,7 +48,6 @@ I was born and raised in Pingchang, Sichuan. I attended high school at Pingchang
 # 📖 Educations
 - *2020.09 - 2024.06*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China. 
 - *2017.09 - 2020.03*, M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
-- *2014.09 - 2015.06*, Exchange Student, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China.
 - *2013.09 - 2014.06*, B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
 - *2010.09 - 2013.06*, High School, Pingchang Middle School, Pingchang, Sichuan, China.
   
