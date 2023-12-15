@@ -23,7 +23,8 @@ I was born and raised in Pingchang, Sichuan. I attended high school at Pingchang
 - *2023.10*: &nbsp;🎉🎉 TBD. 
 
 # 📝 Publications 
-- A Fast Shooting Method for Indirect Trajectory Optimization [J], **In preparation** 
+- Nonlinear optimal guidance for impact-time control with field-of-view constraint[J], Lu Fangmin, **Wang Kun**, Chen Zheng. **In preparation** 
+- A Fast Shooting Method for Indirect Trajectory Optimization [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **In preparation** 
 - Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Wang Kun**, Chen Zheng, et al., **Submitted**
 - Real-time optimal control for attitude-constrained solar sailcrafts via neural networks [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **Submitted**
 - [A New Smoothing Technique for Bang-Bang Optimal Control Problems [C]](https://arxiv.org/abs/2309.03069), **Wang Kun**, Chen Zheng, et al., **AIAA SciTech 2024**
