@@ -42,7 +42,8 @@ I was born and raised in Pingchang, Sichuan. I attended high school at Pingchang
 - Multiobjective Optimization of General Parameters of High-Speed Compound Helicopter Based on Design for 6σ [J]. **Journal of Nanjing University of Aeronautics and Astronautics**,2018,50(2):207-212. **Wang Kun**, Zhu Qinghua, et al. (in Chinese)
 
 # 🎖 Honors and Awards
-- *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 ￥ (about 4,106 US $). 
+- *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 ￥ (about 4,106 US $).
+- *2023.10*, "Xinxing" Scholarship for Graduate Research, Zhejiang University, 10,000 ￥ (about 1,369 US $). 
 - *2023.06*, "Golden Years" Overseas Exchange Scholarship, Zhejiang University.
 - *2020.10*, Scholarship for Incoming Freshmen, Zhejiang University, 10,000 ￥ (about 1,369 US $).
 - *2019.11*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 20,000 ￥ (about 2,738 US $).
