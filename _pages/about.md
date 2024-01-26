@@ -53,6 +53,7 @@ I was born and raised in Pingchang, Sichuan. I attended high school at Pingchang
 # 📖 Educations
 - *2020.09 - 2024.09*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China. 
 - *2017.09 - 2020.03*, M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
+- *2014.09 - 2015.06*, Exchange student, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China.
 - *2013.09 - 2017.06*, B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
 - *2010.09 - 2013.06*, High School, Pingchang Middle School, Pingchang, Sichuan, China.
   
