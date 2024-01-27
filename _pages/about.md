@@ -19,12 +19,12 @@ redirect_from:
 I was born and raised in Pingchang, Sichuan, and completed my high school education at Pingchang Middle School. Following that, I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. During my time there, I discovered my passion for aerospace engineering, which led me to pursue further studies at Nanjing University of Aeronautics and Astronautics, where I focused on the flight dynamics and control of the rotorcraft. Currently, I am pursuing a Ph.D. at Zhejiang University under the guidance of Prof. Chen Zheng and Li Jun. My research interests encompass a wide range of areas including optimal guidance, data-driven control, and path planning for autonomous vehicles. 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 TBD. 
+- *2023.10*: &nbsp;🎉🎉 TBD.  Last update 27.01.2024
 
 # 📝 Publications 
 - Nonlinear optimal guidance for impact-time control with field-of-view constraint [J], Lu Fangmin, **Wang Kun**, Chen Zheng. **In preparation**
 - Fuel-optimal trajectory planning for lunar vertical landing [J], **Wang Kun**, Chen Zheng, et al., **In preparation** 
-- A Fast Shooting Method for Indirect Trajectory Optimization [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **Submitted** 
+- A Physics-Informed Indirect Method for Trajectory Optimization [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **Submitted** 
 - Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Wang Kun**, Chen Zheng, et al., **Submitted**
 - Real-time optimal control for attitude-constrained solar sailcrafts via neural networks [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **Acta Astronautica 2024**
 - A New Smoothing Technique for Bang-Bang Optimal Control Problems[C]//**AIAA SCITECH 2024 Forum**. 2024: 0727. **Wang Kun**, Chen Zheng, et al.
