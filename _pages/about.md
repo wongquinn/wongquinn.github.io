@@ -23,7 +23,8 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 
 # 📝 Publications 
 - Nonlinear optimal guidance for impact-time control with field-of-view constraint [J], Lu Fangmin, **Wang Kun**, Chen Zheng. **In preparation**
-- Fuel-optimal trajectory planning for lunar vertical landing [J], **Wang Kun**, Chen Zheng, et al., **In preparation** 
+- Fuel-optimal trajectory planning for lunar vertical landing [J], **Wang Kun**, Chen Zheng, et al., **In preparation**
+- Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **Wang Kun**, Chen Zheng, Lu Fangmin, et al., **Submitted** 
 - A Physics-Informed Indirect Method for Trajectory Optimization [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **Submitted** 
 - Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Wang Kun**, Chen Zheng, et al., **Submitted**
 - Real-time optimal control for attitude-constrained solar sailcrafts via neural networks [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **Acta Astronautica 2024**
