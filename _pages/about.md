@@ -21,18 +21,15 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 TBD.  Last update 27.01.2024
 
-# 📝 Publications 
+# 📝 Selected Journal Papers
 - Nonlinear optimal guidance for impact-time control with field-of-view constraint [J], Lu Fangmin, **Wang Kun**, Chen Zheng. **In preparation**
 - Fuel-optimal trajectory planning for lunar vertical landing [J], **Wang Kun**, Chen Zheng, et al., **Submitted**
-- Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **Wang Kun**, Chen Zheng, Lu Fangmin, et al., **IEEE ICCA 2024** 
 - A Physics-Informed Indirect Method for Trajectory Optimization [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **Submitted** 
 - Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Wang Kun**, Chen Zheng, et al., **Submitted**
 - Real-time optimal control for attitude-constrained solar sailcrafts via neural networks [J], **Wang Kun**, Lu Fangmin, Chen Zheng, et al., **Acta Astronautica 2024**
-- A New Smoothing Technique for Bang-Bang Optimal Control Problems[C]//**AIAA SCITECH 2024 Forum**. 2024: 0727. **Wang Kun**, Chen Zheng, et al.
 - Nonlinear Optimal Guidance with Constraints on Overload and Impact Time [J], **Wang Kun**, Duan Xinran, Chen Zheng, et al., **Systems Engineering and Electronics (in Chinese)**
 - Elongation of curvature-bounded path [J]. **Automatica**, 2023, 151: 110936.Chen Zheng, **Wang Kun**, Shi Heng.
 - Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. **Journal of Guidance, Control, and Dynamics**, 2022, 45(9): 1614-1626.**Wang Kun**, Chen Zheng, Wang Han, et al.
-- Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network[C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.**Wang Kun**, Chen Zheng, Li Jun.
 - Numerical Study on Influence of Key Parameters of Aerodynamic Characteristics of Shaftless Ducted Rotor [J]. **Transactions of Nanjing University of Aeronautics & Astronautics**, 2020, 37(5). Shen Suiyuan, Zhu Qinghua, **Wang Kun**, et al.
 - Influence of blade negative twist on aerodynamic performance of cycloidal propeller [J], **Journal of Aerospace Power**, 2020, 35(3): 620-632. Zeng Jianan, Zhu Qinghua, **Wang Kun**, et al.
 - Aerodynamic characteristics analysis of twin-rotor in tandem helicopter [J]. **Adv. Aeronaut. Sci. Eng** 11 (2020): 167-176. Chen Jianwei, Zhu Qinghua, **Wang Kun**, et al. (in Chinese)
@@ -40,6 +37,13 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 - Influence of canted tail rotor on helicopter’s design CG envelope [J]. **Flight Dynamics**, 2019,37(06):84-88. **Wang Kun**, Zhu Qinghua, et al. (in Chinese)
 - Calculation of design center of gravity envelope of civil aircraft [J]. **Flight Dynamics**, 2019,37(04):21-24.**Wang Kun**, Zhu Qinghua, et al. (in Chinese)
 - Multiobjective Optimization of General Parameters of High-Speed Compound Helicopter Based on Design for 6σ [J]. **Journal of Nanjing University of Aeronautics and Astronautics**,2018,50(2):207-212. **Wang Kun**, Zhu Qinghua, et al. (in Chinese)
+
+# 📝 Selected Conference Papers
+- Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **Wang Kun**, Chen Zheng, Lu Fangmin, et al., **2024 IEEE 18th International Conference on Control & Automation (ICCA)**, June 18–21, 2024, in Reykjavík, Iceland.
+- Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C]. Ma, H., Chen, Z., **Wang, K**.  **2024 IEEE 18th International Conference on Control & Automation (ICCA)**, June 18–21, 2024, in Reykjavík, Iceland.
+- Learning-based Optimal Entry Guidance with Path Constraints [C]. Lu, F., Chen, Z., **Wang, K**. **2024 IEEE 18th International Conference on Control & Automation (ICCA)**, June 18–21, 2024, in Reykjavík, Iceland.
+- A New Smoothing Technique for Bang-Bang Optimal Control Problems[C]//**AIAA SCITECH 2024 Forum**. 2024: 0727. **Wang Kun**, Chen Zheng, et al.
+- Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network[C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.**Wang Kun**, Chen Zheng, Li Jun.
 
 # 🎖 Honors and Awards
 - *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 ￥ (about 4,106 US $).
