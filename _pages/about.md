@@ -54,7 +54,8 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 - *2018.10*, "Shuidi" Scholarship, Nanjing University of Aeronautics and Astronautics, 1,000 ￥ (about 137 US $).
 
 # 📖 Educations
-- *2020.09 - 2024.09*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China. 
+- *2020.09 - 2024.09*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China.
+- *2024.03 - Present*, Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. 
 - *2017.09 - 2020.03*, M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 - *2014.09 - 2015.06*, Exchange student, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China.
 - *2013.09 - 2017.06*, B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
