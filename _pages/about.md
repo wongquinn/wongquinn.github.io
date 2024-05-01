@@ -41,8 +41,8 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 - **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
 - Ma, H., Chen, Z., **Wang, K**. Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
 - Lu, F., Chen, Z., **Wang, K**. Learning-based Optimal Entry Guidance with Path Constraints [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
-- **Wang K**, Chen Z, et al. A New Smoothing Technique for Bang-Bang Optimal Control Problems[C]//**AIAA SCITECH 2024 Forum**. 2024: 0727. 
-- **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network[C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
+- **Wang K**, Chen Z, et al. A New Smoothing Technique for Bang-Bang Optimal Control Problems [C]//**AIAA SCITECH 2024 Forum**. 2024: 0727. 
+- **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
 
 # 🎖 Honors and Awards
 - *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China, 30,000 ￥ (about 4,106 US $).
