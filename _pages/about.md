@@ -26,7 +26,7 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 - **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **Submitted to IEEE Transactions on Aerospace and Electronic Systems.** 
 - **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Submitted to Advances in Space Research.**
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
-- **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657.
+- **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance Method with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657.
 - Chen Z, **Wang K**, Shi H. Elongation of curvature-bounded path [J]. **Automatica**, 2023, 151: 110936.
 - **Wang K**, Chen Z. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. **Journal of Guidance, Control, and Dynamics**, 2022, 45(9): 1614-1626.
 - Shen S, Zhu Q, **Wang K**, Numerical Study on Influence of Key Parameters of Aerodynamic Characteristics of Shaftless Ducted Rotor [J]. **Transactions of Nanjing University of Aeronautics & Astronautics**, 2020, 37(5). 
