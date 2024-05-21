@@ -66,4 +66,4 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 
 # 💻 Skills
 - Matlab/Simulink, Python, C/C++
-- Chinese (native), English [IELTS 7.0, Cambridge Business English Certificate Higher, CET-6 (580)]
+- Chinese, English
