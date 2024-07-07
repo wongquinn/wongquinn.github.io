@@ -22,9 +22,9 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 - *2023.10*: &nbsp;🎉🎉 TBD.  Last update 27.01.2024
 
 # 📝 Selected Journal Papers
-- **Wang K**, Chen Z. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control, 2024**
 - **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **Submitted to IEEE Transactions on Aerospace and Electronic Systems.** 
-- **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Submitted to Advances in Space Research.**
+- **Wang K**, Chen Z. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control, 2024**
+- **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research, 2024.**
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
 - **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance Method with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657.
 - Chen Z, **Wang K**, Shi H. Elongation of curvature-bounded path [J]. **Automatica**, 2023, 151: 110936.
