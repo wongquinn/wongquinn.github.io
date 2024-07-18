@@ -45,14 +45,14 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 - **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
 
 # 🎖 Honors and Awards
-- *2024.07*, China Space Foundation Scholarship, Zhejiang University.
-- *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China.
-- *2023.10*, "Xinxing" Scholarship for Overseas Graduate Research, Zhejiang University. 
+- *2024.07*, China Space Foundation Scholarship, Zhejiang University. CNY ¥ 5,000
+- *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. CNY ¥ 75,000
+- *2023.10*, "Xinxing" Scholarship for Overseas Graduate Research, Zhejiang University. CNY ¥ 30,000
 - *2023.06*, "Golden Years" Overseas Exchange Scholarship, Zhejiang University. Visited Politecnico di Milano.
-- *2020.10*, Scholarship for Incoming Freshmen, Zhejiang University.
-- *2019.11*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China.
-- *2018.10*, "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics.
-- *2018.10*, "Shuidi" Scholarship, Nanjing University of Aeronautics and Astronautics.
+- *2020.10*, Scholarship for Incoming Freshmen, Zhejiang University. CNY ¥ 10,000
+- *2019.11*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. CNY ¥ 20,000
+- *2018.10*, "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics. CNY ¥ 5,000
+- *2018.10*, "Shuidi" Scholarship, Nanjing University of Aeronautics and Astronautics. CNY ¥ 1,000
 
 # 📖 Educations
 - *2020.09 - 2024.09*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China.
