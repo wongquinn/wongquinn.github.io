@@ -46,8 +46,8 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 
 # 🎖 Honors and Awards
 - *2024.07*, China Space Foundation Scholarship, Zhejiang University. CNY ¥ 5,000
-- *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. CNY ¥ 75,000
-- *2023.10*, "Xinxing" Scholarship for Overseas Graduate Research, Zhejiang University. CNY ¥ 30,000
+- *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. CNY ¥ 30,000
+- *2023.10*, "Xinxing" Scholarship for Overseas Graduate Research, Zhejiang University. CNY ¥ 75,000
 - *2023.06*, "Golden Years" Overseas Exchange Scholarship, Zhejiang University. Visited Politecnico di Milano.
 - *2020.10*, Scholarship for Incoming Freshmen, Zhejiang University. CNY ¥ 10,000
 - *2019.11*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. CNY ¥ 20,000
