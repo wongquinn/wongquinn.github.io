@@ -16,15 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I was born and raised in Pingchang, Sichuan, and completed my high school education at Pingchang Middle School. Following that, I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. During my time there, I discovered my passion for aerospace engineering, which led me to pursue further studies at Nanjing University of Aeronautics and Astronautics, where I focused on the flight dynamics and control of the rotorcraft. Currently, I am pursuing a Ph.D. at Zhejiang University under the guidance of Prof. Chen Zheng and Li Jun. My research interests encompass a wide range of areas including optimal guidance, data-driven control, and path planning for autonomous vehicles. 
+I was born and raised in Pingchang, Sichuan, and completed my high school education at Pingchang Middle School. I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. While there, I discovered my passion for aerospace engineering, which led me to pursue further studies at Nanjing University of Aeronautics and Astronautics, where I focused on flight dynamics and control of rotorcrafts. Currently, I am pursuing a Ph.D. at Zhejiang University under the guidance of Prof. Chen Zheng and Li Jun. My research interests encompass a wide range of areas including optimal guidance, data-driven control, and path planning for autonomous vehicles. 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 TBD.  Last update 27.01.2024
+- *2023.10*: &nbsp;🎉🎉 TBD.  Last update 27.07.2024
 
 # 📝 Selected Journal Papers
 - **Wang K**, Lu F, Chen Z, et al. Nonlinear Optimal Impact Angle Control Guidance Considering Speed Variation and Acceleration Constraints[J], **Submitted.** 
 - **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems, 2024.** DOI: 10.1109/TAES.2024.3438687 
-- **Wang K**, Chen Z. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control, 2024**
+- **Wang K**, Chen Z. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
 - **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research, 2024.** DOI: 10.1016/j.asr.2024.07.019
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
 - **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance Method with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657. (In Chinese)
@@ -38,7 +38,7 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 - **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
 - Ma, H., Chen, Z., **Wang, K**. Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
 - Lu, F., Chen, Z., **Wang, K**. Learning-based Optimal Entry Guidance with Path Constraints [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
-- **Wang K**, Chen Z, et al. A New Smoothing Technique for Bang-Bang Optimal Control Problems [C]//**AIAA SCITECH 2024 Forum**. 2024: 0727. 
+- **Wang K**, Chen Z, et al. A New Smoothing Technique for Bang-Bang Optimal Control Problems [C]//**AIAA SciTech 2024 Forum**. 2024: 0727. 
 - **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
 
 # 🎖 Honors and Awards
@@ -52,7 +52,7 @@ I was born and raised in Pingchang, Sichuan, and completed my high school educat
 - *2018.10*, "Shuidi" Scholarship, Nanjing University of Aeronautics and Astronautics. CNY ¥ 1,000
 
 # 📖 Educations
-- *2020.09 - 2024.09*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China.
+- *2020.09 - 2024.12*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China.
 - *2024.03 - Present*, Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. 
 - *2017.09 - 2020.03*, M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 - *2014.09 - 2015.06*, Exchange student, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China.
