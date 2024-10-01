@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I was born and raised in Pingchang, Sichuan, and completed my high school education at Pingchang Middle School. I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. While there, I discovered my passion for aerospace engineering, which led me to pursue further studies at Nanjing University of Aeronautics and Astronautics, where I focused on flight dynamics and control of rotorcrafts. Currently, I am pursuing a Ph.D. at Zhejiang University under the guidance of Prof. Chen Zheng and Li Jun. My research interests encompass a wide range of areas including optimal guidance, data-driven control, and path planning for autonomous vehicles. 
+I was born and raised in Pingchang, Sichuan, and completed my high school education at Pingchang Middle School. I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. I then received a Master's degree from Nanjing University of Aeronautics and Astronautics. Currently, I am pursuing a Ph.D. at Zhejiang University. My research interests encompass a wide range of areas including optimal guidance and control, data-driven control, and safety-critical control of autonomous vehicles. 
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 TBD.  Last update 27.07.2024
