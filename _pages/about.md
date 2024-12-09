@@ -23,13 +23,12 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 
 # 📝 Selected Journal Papers
 - **Wang K**, Lu F, Chen Z, et al. Nonlinear Optimal Impact Angle Control Guidance Considering Speed Variation and Acceleration Constraints[J], **Submitted.**
-- **SCI:**
+- **Wang K**,  et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Ready for submission.**
 - **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems, 2024.** DOI: 10.1109/TAES.2024.3438687 
 - **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research, 2024.** DOI: 10.1016/j.asr.2024.07.019
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
 - Chen Z, **Wang K**, Shi H. Elongation of curvature-bounded path [J]. **Automatica**, 2023, 151: 110936.
 - **Wang K**, Chen Z. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. **AIAA Journal of Guidance, Control, and Dynamics**, 2022, 45(9): 1614-1626.
-- **Others：**
 - **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance Method with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657. (In Chinese)
 - **Wang K**, Chen Z. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
 - **Wang K**, Zhu Q, et al. Influence of canted tail rotor on helicopter’s design CG envelope [J]. **Flight Dynamics**, 2019,37(06):84-88. 
