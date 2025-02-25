@@ -19,13 +19,13 @@ redirect_from:
 I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. I then received a Master's degree from Nanjing University of Aeronautics and Astronautics. I earned my PhD from Zhejiang University. My research interests encompass a wide range of areas including optimal guidance and control, data-driven control, and safety-critical control of autonomous vehicles. 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 TBD.  Last update 27.07.2024
+- *2023.10*: &nbsp;🎉🎉 TBD.  Last update 02.2025
 
 # 📝 Selected Journal Papers
 - **Wang K**, Lu F, Chen Z, et al. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], **Submitted.**
-- **Wang K**,  et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Submitted.**
+- **Wang K**, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Submitted.**
 - **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems, 2024.** DOI: 10.1109/TAES.2024.3438687 
-- **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research, 2024.** DOI: 10.1016/j.asr.2024.07.019
+- **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research**, 2024, 74(10): 5006-5022.
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
 - Chen Z, **Wang K**, Shi H. Elongation of curvature-bounded path [J]. **Automatica**, 2023, 151: 110936.
 - **Wang K**, Chen Z. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. **AIAA Journal of Guidance, Control, and Dynamics**, 2022, 45(9): 1614-1626.
@@ -52,7 +52,7 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 - *2018.10*, "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics. 
 
 # 📖 Educations
-- *2020.09 - 2025.03*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China.
+- *2020.09 - 2025.03*, Ph.D., Aerospace Engineering, Zhejiang University, Hangzhou, China.
 - *2024.03 - Present*, Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. (Supervised by Dr. Roberto Armellin)
 - *2017.09 - 2020.03*, M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 - *2014.09 - 2015.06*, Exchange student, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China.
