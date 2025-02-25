@@ -16,14 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. I then received a Master's degree from Nanjing University of Aeronautics and Astronautics. Currently, I am pursuing a Ph.D. at Zhejiang University. My research interests encompass a wide range of areas including optimal guidance and control, data-driven control, and safety-critical control of autonomous vehicles. 
+I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. I then received a Master's degree from Nanjing University of Aeronautics and Astronautics. I earned my PhD from Zhejiang University. My research interests encompass a wide range of areas including optimal guidance and control, data-driven control, and safety-critical control of autonomous vehicles. 
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 TBD.  Last update 27.07.2024
 
 # 📝 Selected Journal Papers
-- **Wang K**, Lu F, Chen Z, et al. Nonlinear Optimal Impact Angle Control Guidance Considering Speed Variation and Acceleration Constraints[J], **Submitted.**
-- **Wang K**,  et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Ready for submission.**
+- **Wang K**, Lu F, Chen Z, et al. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], **Submitted.**
+- **Wang K**,  et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Submitted.**
 - **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems, 2024.** DOI: 10.1109/TAES.2024.3438687 
 - **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research, 2024.** DOI: 10.1016/j.asr.2024.07.019
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
@@ -52,7 +52,7 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 - *2018.10*, "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics. 
 
 # 📖 Educations
-- *2020.09 - 2024.12*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China.
+- *2020.09 - 2025.03*, Ph.D. student, Aerospace Engineering, Zhejiang University, Hangzhou, China.
 - *2024.03 - Present*, Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. (Supervised by Dr. Roberto Armellin)
 - *2017.09 - 2020.03*, M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 - *2014.09 - 2015.06*, Exchange student, Materials Science and Engineering, Beijing Institute of Technology, Beijing, China.
