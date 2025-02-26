@@ -59,7 +59,7 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 - *2013.09 - 2017.06*, B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
   
 # 💬 Visitors Info
-- *2099.09*, TBD. <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ib8qyqckov&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+- *2099.09*, TBD. <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5xogd34ja9n&m=7&c=ff0000&cr1=ffffff&f=arial&l=0&bv=100&lx=660&ly=440" async="async"></script>
 
 # 💻 Skills
 - Matlab/Simulink, Python, C/C++
