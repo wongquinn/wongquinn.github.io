@@ -16,14 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. I then received a Master's degree from Nanjing University of Aeronautics and Astronautics. I earned my PhD from Zhejiang University. My research interests encompass a wide range of areas including optimal guidance and control, data-driven control, and safety-critical control of autonomous vehicles. 
+I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. I then received a Master's degree from Nanjing University of Aeronautics and Astronautics. I earned my PhD from Zhejiang University. My research interests encompass a wide range of areas including optimal guidance & control, safety-critical control, and machine learning in aerospace engineering. 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 TBD.  Last update 02.2025
+- *2023.10*: &nbsp;🎉🎉 TBD.  Last update 03.2025
 
 # 📝 Selected Journal Papers
-- **Wang K**, Lu F, Chen Z, et al. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], **Submitted.**
-- **Wang K**, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Submitted.**
+- **Wang K**, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Under review.**
+- **Wang K**, Lu F, Chen Z. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], **IEEE Transactions on Aerospace and Electronic Systems, 2025.** DOI:10.1109/TAES.2025.3551283
 - **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems, 2024.** DOI: 10.1109/TAES.2024.3438687 
 - **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research**, 2024, 74(10): 5006-5022.
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
