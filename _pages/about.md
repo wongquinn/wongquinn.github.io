@@ -24,16 +24,13 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 # 📝 Selected Journal Papers
 - **Wang K**, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Under review.**
 - **Wang K**, Lu F, Chen Z. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], **IEEE Transactions on Aerospace and Electronic Systems, 2025.** DOI:10.1109/TAES.2025.3551283
-- **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems, 2024.** DOI: 10.1109/TAES.2024.3438687 
+- **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems**, 2024, 60(6), 9179-9192
 - **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research**, 2024, 74(10): 5006-5022.
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
 - Chen Z, **Wang K**, Shi H. Elongation of curvature-bounded path [J]. **Automatica**, 2023, 151: 110936.
 - **Wang K**, Chen Z. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. **AIAA Journal of Guidance, Control, and Dynamics**, 2022, 45(9): 1614-1626.
 - **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance Method with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657. (In Chinese)
 - **Wang K**, Chen Z. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
-- **Wang K**, Zhu Q, et al. Influence of canted tail rotor on helicopter’s design CG envelope [J]. **Flight Dynamics**, 2019,37(06):84-88. 
-- **Wang K**, Zhu Q, et al. Calculation of design center of gravity envelope of civil aircraft [J]. **Flight Dynamics**, 2019,37(04):21-24.
-- **Wang K**, Zhu Q, et al. Multiobjective Optimization of General Parameters of High-Speed Compound Helicopter Based on Design for 6σ [J]. **Journal of Nanjing University of Aeronautics and Astronautics**,2018,50(2):207-212. 
 
 # 📝 Selected Conference Papers
 - **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
