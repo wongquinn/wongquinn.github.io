@@ -28,9 +28,9 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 - [6] **Wang K**, Chen Z, Jun Li. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2024, 74(10): 5006-5022.
 - [5] **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. <span style="color:orange;"><em><strong>Acta Astronautica</strong></em></span>, 2024, 216: 446-458.
 - [4] Chen Z, **Wang K**, Shi H. Elongation of curvature-bounded path [J]. <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>, 2023, 151: 110936.
-- [3] **Wang K**, Chen Z. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. <span style="color:purple;"><em><strong>Journal of Guidance, Control, and Dynamics.</strong></em></span>, 2022, 45(9): 1614-1626.
+- [3] **Wang K**, Chen Z, Han Wang, et al. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. <span style="color:purple;"><em><strong>Journal of Guidance, Control, and Dynamics.</strong></em></span>, 2022, 45(9): 1614-1626.
 - [2] **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance Method with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657. (In Chinese)
-- [1] **Wang K**, Chen Z. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
+- [1] **Wang K**, Chen Z, Jun Li. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
 
 # 📝 Selected Conference Papers
 - **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
