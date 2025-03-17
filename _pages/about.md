@@ -23,13 +23,12 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 
 # 📝 Selected Journal Papers
 - **Wang K**, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Under review.**
-- **Wang K**, Lu F, Chen Z. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], **IEEE Transactions on Aerospace and Electronic Systems, 2025.** DOI:10.1109/TAES.2025.3551283
-- <span style="color:red;"><em><strong>Wang K</strong></em></span>, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], <span style="color:blue;"><em><strong>Under review.</strong></em></span>
-- **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems**, 2024, 60(6), 9179-9192
-- **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research**, 2024, 74(10): 5006-5022.
+- <span style="color:black;"><em><strong>Wang K</strong></em></span>, Lu F, Chen Z. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems.</strong></em></span>,2025. DOI:10.1109/TAES.2025.3551283
+- <span style="color:black;"><em><strong>Wang K</strong></em></span>, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems.</strong></em></span>, 2024, 60(6), 9179-9192
+- <span style="color:black;"><em><strong>Wang K</strong></em></span>, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], <span style="color:green;"><em><strong>Advances in Space Research.</strong></em></span>, 2024, 74(10): 5006-5022.
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
 - Chen Z, **Wang K**, Shi H. Elongation of curvature-bounded path [J]. **Automatica**, 2023, 151: 110936.
-- **Wang K**, Chen Z. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. **AIAA Journal of Guidance, Control, and Dynamics**, 2022, 45(9): 1614-1626.
+- <span style="color:black;"><em><strong>Wang K</strong></em></span>, Chen Z. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. <span style="color:purple;"><em><strong>Journal of Guidance, Control, and Dynamics.</strong></em></span>, 2022, 45(9): 1614-1626.
 - **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance Method with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657. (In Chinese)
 - **Wang K**, Chen Z. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
 
