@@ -24,6 +24,7 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 # 📝 Selected Journal Papers
 - **Wang K**, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Under review.**
 - **Wang K**, Lu F, Chen Z. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], **IEEE Transactions on Aerospace and Electronic Systems, 2025.** DOI:10.1109/TAES.2025.3551283
+- <span style="color:red;"><em><strong>Wang K</strong></em></span>, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], <span style="color:blue;"><em><strong>Under review.</strong></em></span>
 - **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], **IEEE Transactions on Aerospace and Electronic Systems**, 2024, 60(6), 9179-9192
 - **Wang K**, Chen Z. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], **Advances in Space Research**, 2024, 74(10): 5006-5022.
 - **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. **Acta Astronautica**, 2024, 216: 446-458.
