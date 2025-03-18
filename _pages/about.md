@@ -23,12 +23,13 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 
 # 📝 Selected Journal Papers
 - **Wang K**, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Under review.**
+- Ding C, **Wang K***, Zhang G. Physics-Informed Terminal Optimal Guidance against a Stationary Target[J], **Under review.**
 - [8] **Wang K**, Lu F, Chen Z. Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints[J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>,2025. DOI:10.1109/TAES.2025.3551283
 - [7] **Wang K**, Lu F, Chen Z, et al. A Physics-Informed Indirect Method for Trajectory Optimization [J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>, 2024, 60(6), 9179-9192
 - [6] **Wang K**, Chen Z, Jun Li. Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks [J], <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2024, 74(10): 5006-5022.
 - [5] **Wang K**, Lu F, Chen Z, et al. Real-time optimal control for attitude-constrained solar sailcrafts via neural networks[J]. <span style="color:orange;"><em><strong>Acta Astronautica</strong></em></span>, 2024, 216: 446-458.
 - [4] Chen Z, **Wang K**, Shi H. Elongation of curvature-bounded path [J]. <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>, 2023, 151: 110936.
-- [3] **Wang K**, Chen Z, Han Wang, et al. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints [J]. <span style="color:purple;"><em><strong>Journal of Guidance, Control, and Dynamics.</strong></em></span>, 2022, 45(9): 1614-1626.
+- [3] **Wang K**, Chen Z, Han Wang, et al. Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints[J]. <span style="color:purple;"><em><strong>Journal of Guidance, Control, and Dynamics</strong></em></span>, 2022, 45(9): 1614-1626.
 - [2] **Wang K**, Du X, Chen Z, et al. Nonlinear Optimal Guidance Method with Constraints on Overload and Impact Time [J], **Systems Engineering and Electronics**, 2024, 46(2): 649-657. (In Chinese)
 - [1] **Wang K**, Chen Z, Jun Li. Fuel-optimal trajectory planning for lunar vertical landing [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
 
