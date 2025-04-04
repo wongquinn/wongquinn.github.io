@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University. I then received a Master's degree from Nanjing University of Aeronautics and Astronautics. I earned my PhD from Zhejiang University. My research interests encompass a wide range of areas including optimal guidance & control, safety-critical control, and machine learning in autonomous systems. 
+I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University, a Master's degree from Nanjing University of Aeronautics and Astronautics, and a PhD from Zhejiang University. My research interests encompass a wide range of areas, including optimal guidance and control, safety-critical control, and machine learning in autonomous systems. 
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 TBD.  Last update 03.2025
@@ -55,14 +55,15 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 - *2024.03 - Present*, Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. (Supervised by Dr. Roberto Armellin)
 - *2017.09 - 2020.03*, M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 - *2013.09 - 2017.06*, B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
-  
-# 💬 Visitors Info
-- <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/zc.php?d=9&id=8071&s=1' border='0' alt='Free Website Hit Counter'></a><br /><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
 
-# 💬 Review Activities
+# 📚 Review Activities
 - Reviewer for journals such as **Journal of Guidance, Control, and Dynamics** and **Science China Physics Mechanics &
 Astronomy**.
 
 # 💻 Skills
 - Matlab/Simulink, Python, C/C++
 - Chinese, English
+  
+# 🌍 Visitors Info
+- <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/zc.php?d=9&id=8071&s=1' border='0' alt='Free Website Hit Counter'></a><br /><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
+
