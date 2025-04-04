@@ -59,6 +59,10 @@ I obtained a bachelor's degree from the School of Materials Science and Engineer
 # 💬 Visitors Info
 - *2099.09*, TBD. <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5xogd34ja9n&m=7&c=ff0000&cr1=ffffff&f=arial&l=0&bv=100&lx=660&ly=440" async="async"></script>
 
+# 💬 Review Activities
+- Reviewer for journals such as **Journal of Guidance, Control, and Dynamics** and **Science China Physics Mechanics &
+Astronomy**.
+
 # 💻 Skills
 - Matlab/Simulink, Python, C/C++
 - Chinese, English
