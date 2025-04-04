@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained a bachelor's degree from the School of Materials Science and Engineering at Shandong University, a Master's degree from Nanjing University of Aeronautics and Astronautics, and a PhD from Zhejiang University. My research interests encompass a wide range of areas, including optimal guidance and control, safety-critical control, and machine learning in autonomous systems. 
+I obtained a bachelor's degree from Shandong University, a Master's degree from Nanjing University of Aeronautics and Astronautics, and a PhD from Zhejiang University. My research interests encompass a wide range of areas, including optimal guidance and control, safety-critical control, and machine learning in autonomous systems. 
 
 # 🔥 News
 - Last update 03.2025
