@@ -42,19 +42,19 @@ I obtained a bachelor's degree from Shandong University, a Master's degree from 
 - **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
 
 # 🎖 Honors and Awards
-- *2024.07*, China Space Foundation Scholarship, Zhejiang University. 
-- *2023.10*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. 
-- *2023.10*, "Xinxing" Scholarship for Overseas Graduate Research, Zhejiang University. 
-- *2023.06*, "Golden Years" Overseas Exchange Scholarship, Zhejiang University. Visited Politecnico di Milano.
-- *2020.10*, Scholarship for Incoming Freshmen, Zhejiang University. 
-- *2019.11*, National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. 
-- *2018.10*, "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics. 
+- China Space Foundation Scholarship, Zhejiang University. 
+- National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. 
+- "Rising Star" Scholarship for Overseas Graduate Research, Zhejiang University. 
+- "Golden Years" Overseas Exchange Scholarship, Zhejiang University. Visited Politecnico di Milano.
+- Scholarship for Incoming Freshmen, Zhejiang University. 
+- National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. 
+- "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics. 
 
 # 📖 Educations
-- *2020.09 - 2025.03*, Ph.D., Aerospace Engineering, Zhejiang University, Hangzhou, China.
-- *2024.03 - Present*, Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. (Supervised by Dr. Roberto Armellin)
-- *2017.09 - 2020.03*, M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
-- *2013.09 - 2017.06*, B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
+- Ph.D., Aerospace Engineering, Zhejiang University, Hangzhou, China.
+- Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. (Supervised by Dr. Roberto Armellin)
+- M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
+- B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
 
 # 📚 Review Activities
 - Reviewer for journals such as **Journal of Guidance, Control, and Dynamics** and **Science China Physics Mechanics &
