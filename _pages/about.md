@@ -51,8 +51,8 @@ I obtained a bachelor's degree from Shandong University, a Master's degree from 
 - "ZHZ" Scholarship, Beijing Zhonghangzhi Co., and Nanjing University of Aeronautics and Astronautics. 
 
 # 📖 Educations
-- Ph.D., Aerospace Engineering, Zhejiang University, Hangzhou, China.
-- Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. (Supervised by Dr. Roberto Armellin)
+- Ph.D., Aerospace Engineering, Zhejiang University, Hangzhou, China. (Supervised by Prof. [Zheng Chen](https://person.zju.edu.cn/0019048))
+- Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. (Supervised by Prof. [Roberto Armellin](https://profiles.auckland.ac.nz/roberto-armellin))
 - M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 - B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
 
