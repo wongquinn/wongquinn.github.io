@@ -58,7 +58,7 @@ I obtained a bachelor's degree from Shandong University, a Master's degree from 
 
 # 📚 Review and Journal Activities
 - Reviewer for journals, **Automatica**, **Journal of Guidance, Control, and Dynamics**, **Science China Physics Mechanics &
-Astronomy**, **Aerospace Science and Technology**
+Astronomy**, **Aerospace Science and Technology**, **Space: Science & Technology**
 - Young Editorial Board Member for **Unmanned Systems Technology**
 
 # 💻 Skills
