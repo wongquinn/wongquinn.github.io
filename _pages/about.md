@@ -57,8 +57,12 @@ I obtained a bachelor's degree from Shandong University, a Master's degree from 
 - B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
 
 # 📚 Review and Journal Activities
-- Reviewer for journals, **Automatica**, **Journal of Guidance, Control, and Dynamics**, **Science China Physics Mechanics &
-Astronomy**, **Aerospace Science and Technology**, **Space: Science & Technology**
+- Reviewer for multiple top-tier journals, such as
+- **Automatica**
+- **Journal of Guidance, Control, and Dynamics**
+- **Science China Physics Mechanics &Astronomy**
+- **Space: Science & Technology**
+- **Aerospace Science and Technology**
 - Young Editorial Board Member for **Unmanned Systems Technology**
 
 # 💻 Skills
