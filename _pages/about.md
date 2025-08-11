@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained a bachelor's degree from Shandong University, a Master's degree from Nanjing University of Aeronautics and Astronautics, and a PhD from Zhejiang University. My research interests encompass a wide range of areas, including optimal guidance and control and safety-critical control in autonomous systems. 
+I obtained a bachelor's degree from Shandong University, a Master's degree from Nanjing University of Aeronautics and Astronautics, and a PhD from Zhejiang University. My research interests encompass a wide range of areas, including optimal guidance and control of autonomous systems. 
 
 # 🔥 News
 - Last update 06.2025
@@ -26,8 +26,8 @@ I obtained a bachelor's degree from Shandong University, a Master's degree from 
 - Ding C, **Wang K***, Zhang G. Physics-Informed Terminal Optimal Guidance against a Stationary Target[J], **Under review.**
 - **Wang K**, Ding C, Chen Z, Wang P. Look-angle cubic polynomial guidance for impact time control[J], **Under review.**
 - Wei Z, **Wang K**, Shao Z, Biegler LT.  Coordinated guidance and control for multiple parafoil system landing[J], **Under review.**
-- [9] Wu F, Chen Z, Shao X, **Wang K**. Nonlinear Optimal Guidance with Constraints on Impact Time and Impact
-Angle[J], To appear in <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>.
+- [9] Wu F, Chen Z, Shao X, **Wang K**. [Nonlinear Optimal Guidance with Constraints on Impact Time and Impact
+Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2025,181,112500.
 - [8] **Wang K**, Lu F, Chen Z. [Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints](https://ieeexplore.ieee.org/document/10926912/)[J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>,2025. DOI:10.1109/TAES.2025.3551283
 - [7] **Wang K**, Lu F, Chen Z, et al. [A Physics-Informed Indirect Method for Trajectory Optimization](https://ieeexplore.ieee.org/document/10623330/) [J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>, 2024, 60(6), 9179-9192
 - [6] **Wang K**, Chen Z, Jun Li. [Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks](https://linkinghub.elsevier.com/retrieve/pii/S0273117724007154) [J], <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2024, 74(10): 5006-5022.
