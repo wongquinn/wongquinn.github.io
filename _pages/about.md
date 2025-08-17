@@ -44,7 +44,7 @@ Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:
 - **Wang K**, Chen Z, et al. A New Smoothing Technique for Bang-Bang Optimal Control Problems [C]//**AIAA SciTech 2024 Forum**. 2024: 0727. 
 - **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 <!--- China Space Foundation Scholarship, Zhejiang University. -->
 - National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. 
 - "Rising Star" Scholarship for Overseas Graduate Research, Zhejiang University. 
