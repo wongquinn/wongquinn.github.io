@@ -44,7 +44,7 @@ Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:
 - **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
 
 # 🎖 Selected Honors and Awards
-- National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. 
+- National Scholarship for Doctoral Graduate Students, Ministry of Education of the People's Republic of China. 
 - "Rising Star" Scholarship for Overseas Graduate Research, Zhejiang University. 
 - "Golden Years" Overseas Exchange Scholarship, Zhejiang University. Visited Politecnico di Milano.
 - Scholarship for Incoming Freshmen, Zhejiang University. 
@@ -60,6 +60,7 @@ Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:
 - Reviewer for multiple top-tier journals, such as
 - **Automatica**
 - **Journal of Guidance, Control, and Dynamics**
+- **IEEE T-AES**
 - **Science China Physics Mechanics &Astronomy**
 - **Space: Science & Technology**
 - **Aerospace Science and Technology**
