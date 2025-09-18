@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kun Wang"
-description              : "Ph.D. Focusing on optimal guidance and control of autonomous vehicles."
+title                    : "Kun Wang, PhD"
+description              : "Focusing on optimal guidance and control of autonomous vehicles."
 repository               : "wongquinn/wongquinn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kun Wang"
   avatar           : "images/111.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Universidad Carlos III de Madrid"
+  location         : "Madrid, Spain"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
