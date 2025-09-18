@@ -19,7 +19,7 @@ redirect_from:
 I obtained a bachelor's degree from Shandong University, a Master's degree from Nanjing University of Aeronautics and Astronautics, and a PhD from Zhejiang University. My research interests encompass a wide range of areas, including optimal guidance and control of autonomous systems. 
 
 # 🔥 News
-- Last update 06.2025
+- I've just started my assistant professor position at Universidad Carlos III de Madrid. Feel free to reach out!
 
 # 📝 Selected Journal Papers
 - **Wang K**, Armellin R, Evans A, et al. Learning-based stable optimal guidance for spacecraft close-proximity operations[J], **Under review.**
