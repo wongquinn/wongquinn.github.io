@@ -64,6 +64,7 @@ Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:
 - **Science China Physics Mechanics &Astronomy**
 - **Space: Science & Technology**
 - **Aerospace Science and Technology**
+- Young Editorial Board Member for **IET Cyber-Systems and Robotics**
 - Young Editorial Board Member for **Unmanned Systems Technology**
 
 # 💻 Skills
