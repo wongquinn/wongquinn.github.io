@@ -62,6 +62,7 @@ Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:
 - **Journal of Guidance, Control, and Dynamics**
 - **IEEE T-AES**
 - **Science China Physics Mechanics &Astronomy**
+- **Advances in Space Research**
 - **Space: Science & Technology**
 - **Aerospace Science and Technology**
 - Young Editorial Board Member for **IET Cyber-Systems and Robotics**
