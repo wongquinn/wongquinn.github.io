@@ -26,7 +26,7 @@ I obtained a bachelor's degree from Shandong University, a Master's degree from 
 - Ding C, **Wang K***, Zhang G. Physics-Informed Terminal Optimal Guidance against a Stationary Target[J], **Under review.**
 - **Wang K**, Ding C, Chen Z, Wang P. Look-angle cubic polynomial guidance for impact time control[J], **Under review.**
 - Wei Z, **Wang K**, Shao Z, Biegler LT.  Coordinated guidance and control for multiple parafoil system landing[J], **Under review.**
-- **Wang K**. Trajectory shaping for field-of-view constrained arrival angle control guidance. [C], **Under review.**
+- **Wang K**. Trajectory shaping for arrival angle control guidance with field-of-view constraints. [C], **Under review.**
 - **Wang K**. Trajectory shaping for field-of-view constrained arrival time control. [J], **Under review.**
 - [8] Wu F, Chen Z, Shao X, **Wang K**. [Nonlinear Optimal Guidance with Constraints on Impact Time and Impact
 Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2025,181,112500.
