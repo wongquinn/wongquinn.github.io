@@ -23,11 +23,11 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
 # 📝 Selected Journal Papers
 - **Wang K**, Armellin R, Evans A, et al. Learning-Based Optimal Guidance for Spacecraft Close-Proximity Operations with Certified Stability[J], **Under review.**
-- Ding C, **Wang K***, Zhang G. Physics-Informed Terminal Optimal Guidance against a Stationary Target[J], **Under review.**
+% - Ding C, **Wang K***, Zhang G. Physics-Informed Terminal Optimal Guidance against a Stationary Target[J], **Under review.**
 - **Wang K**, Ding C, Wei Z, Wang P, Chen Z.  Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control[J], **Under review.**
 - Wei Z, **Wang K**, Shao Z, Biegler LT.  Coordinated guidance and control for multiple parafoil system landing[J], **Under review.**
 - **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control. [C], **Under review.**
-- **Wang K**. Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints. [J], **Under review.**
+% - **Wang K**. Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints. [J], **Under review.**
 - [8] Wu F, Chen Z, Shao X, **Wang K**. [Nonlinear Optimal Guidance with Constraints on Impact Time and Impact
 Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2025,181,112500.
 - [7] **Wang K**, Lu F, Chen Z. [Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints](https://ieeexplore.ieee.org/document/10926912/)[J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>,2025, 61(4), 8907–8921.
