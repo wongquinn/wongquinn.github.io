@@ -25,7 +25,6 @@ My research interests encompass a wide range of areas, including optimal guidanc
 - **Wang K**, Armellin R, Evans A, et al. Learning-Based Optimal Guidance for Spacecraft Close-Proximity Operations with Certified Stability[J], **Under review.**
 - **Wang K**, Ding C, Wei Z, Wang P, Chen Z.  Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control[J], **Under review.**
 - Wei Z, **Wang K**, Shao Z, Biegler LT.  Coordinated guidance and control for multiple parafoil system landing[J], **Under review.**
-- **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control[C], **Under review.**
 - **Wang K**. Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints[J], **Under review.**
 - [8] Wu F, Chen Z, Shao X, **Wang K**. [Nonlinear Optimal Guidance with Constraints on Impact Time and Impact
 Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2025,181,112500.
@@ -38,6 +37,7 @@ Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:
 - [1] **Wang K**, Chen Z, Jun Li. [Fuel-optimal trajectory planning for lunar vertical landing](https://www.worldscientific.com/doi/10.1142/S2737480724500110) [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
 
 # 📝 Selected Conference Papers
+- **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control[C], 2026 EuroGNC.
 - **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
 - Ma, H., Chen, Z., **Wang, K**. Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
 - Lu, F., Chen, Z., **Wang, K**. Learning-based Optimal Entry Guidance with Path Constraints [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
@@ -52,8 +52,8 @@ Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:
 - National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China. 
 
 # 📖 Educations
-- Ph.D., Aerospace Engineering, Zhejiang University, Hangzhou, China. (Supervised by Prof. [Zheng Chen](https://person.zju.edu.cn/0019048))
-- Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. (Supervised by Prof. [Roberto Armellin](https://profiles.auckland.ac.nz/roberto-armellin))
+- Ph.D., Aerospace Engineering, Zhejiang University, Hangzhou, China. <!-- Supervised by Prof. [Zheng Chen](https://person.zju.edu.cn/0019048) --> 
+- Visiting Ph.D. student, The University of Auckland, Auckland, New Zealand. <!--Supervised by Prof. [Roberto Armellin](https://profiles.auckland.ac.nz/roberto-armellin))--> 
 - M.Eng., Aircraft Design, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 - B.Eng., Materials Forming and Control Engineering (Mechanical Engineering), Shandong University, Jinan, China.
 
