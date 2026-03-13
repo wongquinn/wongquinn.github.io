@@ -23,7 +23,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
 # 📝 Selected Journal Papers
 - **Wang K**, Ding C, Wei Z, Wang P, Chen Z.  Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control[J], **Under review.**
-- **Wang K**. Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints[J], **Under review.**
+- [11] **Wang K**, Wei Z, Wang P. Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints[J], <span style="color:red;"><em><strong>Aerospace Science and Technology</strong></em></span>, 2026.
 - [10]  Wei Z, **Wang K**, Shao Z, Biegler LT.  [Coordinated guidance and control for multiple parafoil system landing[J]](https://www.sciencedirect.com/science/article/pii/S0273117726002231), <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2026.
 - [9] **Wang K**, Armellin R, Evans A, et al. [Learning-Based Optimal Guidance for Spacecraft Close-Proximity Operations with Certified Stability](https://www.sciencedirect.com/science/article/pii/S0094576526000950?via%3Dihub) <span style="color:orange;"><em><strong>Acta Astronautica</strong></em></span>, 2026.
 - [8] Wu F, Chen Z, Shao X, **Wang K**. [Nonlinear Optimal Guidance with Constraints on Impact Time and Impact
