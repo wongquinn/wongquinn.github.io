@@ -55,17 +55,17 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
 - [4] **Wang K**, Lu F, Chen Z, et al. [Real-time optimal control for attitude-constrained solar sailcrafts via neural networks](https://linkinghub.elsevier.com/retrieve/pii/S0094576524000341)[J], <span class="acta"><em>Acta Astronautica</em></span>, 2024, 216, 446–458.
 
-- [1] **Wang K**, Chen Z, Jun Li. [Fuel-optimal trajectory planning for lunar vertical landing](https://www.worldscientific.com/doi/10.1142/S2737480724500110)[J], Guidance, Navigation, and Control, 2024, 04(02):2450011.
+- [3] **Wang K**, Chen Z, Jun Li. [Fuel-optimal trajectory planning for lunar vertical landing](https://www.worldscientific.com/doi/10.1142/S2737480724500110)[J], Guidance, Navigation, and Control, 2024, 04(02):2450011.
 
 ---
 
 ## 2023
-- [3] Chen Z, **Wang K**, Shi H. [Elongation of curvature-bounded path](https://linkinghub.elsevier.com/retrieve/pii/S0005109823000869)[J], <span class="automatica"><em>Automatica</em></span>, 2023, 151, 110936.
+- [2] Chen Z, **Wang K**, Shi H. [Elongation of curvature-bounded path](https://linkinghub.elsevier.com/retrieve/pii/S0005109823000869)[J], <span class="automatica"><em>Automatica</em></span>, 2023, 151, 110936.
 
 ---
 
 ## 2022
-- [2] **Wang K**, Chen Z, Han Wang, et al. [Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints](https://arc.aiaa.org/doi/10.2514/1.G006666)[J], <span class="jgcd"><em>Journal of Guidance, Control, and Dynamics</em></span>, 2022, 45(9), 1614–1626.
+- [1] **Wang K**, Chen Z, Han Wang, et al. [Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints](https://arc.aiaa.org/doi/10.2514/1.G006666)[J], <span class="jgcd"><em>Journal of Guidance, Control, and Dynamics</em></span>, 2022, 45(9), 1614–1626.
 
 # 📝 Selected Conference Papers
 - **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control[C], 2026 EuroGNC.
