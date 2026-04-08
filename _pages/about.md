@@ -38,7 +38,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
 ## 2023
 - [2] Chen Z, **Wang K**, Shi H. [Elongation of curvature-bounded path](https://linkinghub.elsevier.com/retrieve/pii/S0005109823000869) [J]. <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>, 2023, 151: 110936.
 ## 2022
-- [1] **Wang K**, Chen Z, Han Wang, et al. [Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints](https://arc.aiaa.org/doi/10.2514/1.G006666)[J]. <span style="color:purple;"><em><strong>Journal of Guidance, Control, and Dynamics</strong></em></span>, 2022, 45(9): 1614-1626.
+- [1] **Wang K**, Chen Z, Han Wang, et al. [Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints](https://arc.aiaa.org/doi/10.2514/1.G006666)[J]. <span style="color:purple;"><em><strong> AIAA Journal of Guidance, Control, and Dynamics</strong></em></span>, 2022, 45(9): 1614-1626.
 # 📝 Selected Conference Papers
 - **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control[C], 2026 EuroGNC.
 - **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
