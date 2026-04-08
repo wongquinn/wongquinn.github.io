@@ -1,11 +1,3 @@
-<style>
-.automatica { color:#FF4500; font-weight:bold; }
-.taes { color:blue; font-weight:bold; }
-.asr { color:green; font-weight:bold; }
-.acta { color:orange; font-weight:bold; }
-.jgcd { color:purple; font-weight:bold; }
-.ast { color:red; font-weight:bold; }
-</style>
 ---
 permalink: /
 title: ""
