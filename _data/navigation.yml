@@ -20,3 +20,5 @@ main:
 
   - title: "Skills"
     url: "/#-skills"
+   - title: "Travel Footprints"  # 导航栏显示的文字
+    url: "/travel/"             # 对应的页面路径
