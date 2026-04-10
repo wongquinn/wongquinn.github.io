@@ -20,6 +20,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
 # 🔥 News
 - I've just started my assistant professor position at Universidad Carlos III de Madrid. Feel free to reach out!
+- The work "Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control" has been accepted by **AUTOMATICA**.
 
 # 📝 Selected Journal Papers
 ## 2026
@@ -69,7 +70,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
 - **Automatica**
 - **Journal of Guidance, Control, and Dynamics**
 - **IEEE T-AES**
-- **Science China Physics Mechanics &Astronomy**
+- **Acta Astronautica**
 - **Advances in Space Research**
 - **Space: Science & Technology**
 - **Aerospace Science and Technology**
