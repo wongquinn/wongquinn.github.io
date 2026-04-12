@@ -58,13 +58,5 @@ permalink: /travel/
         <img src="/assets/images/travel/madrid.jpg" alt="马德里">
         <div class="caption">🇪🇸 马德里，2024夏</div>
     </div>
-    <div class="gallery-item">
-        <img src="/assets/images/travel/paris.jpg" alt="巴黎">
-        <div class="caption">🇫🇷 巴黎，2024春</div>
-    </div>
-    <div class="gallery-item">
-        <img src="/assets/images/travel/rome.jpg" alt="罗马">
-        <div class="caption">🇮🇹 罗马，2023秋</div>
-    </div>
     <!-- 继续添加更多照片 -->
 </div>
