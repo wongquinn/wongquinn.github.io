@@ -53,11 +53,11 @@ My research interests encompass a wide range of areas, including optimal guidanc
 - [C7] **Wang K**.  Predictor-Corrector Nonlinear Arrival Time Control Guidance under Time-Varying Velocity[C], 2026 International Conference on Guidance, Navigation
 and Control (ICGNC 2026).
 - [C6] **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control[C], 2026 EuroGNC.
--[C5] **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
--[C4] Ma, H., Chen, Z., **Wang, K**. Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
--[C3] Lu, F., Chen, Z., **Wang, K**. Learning-based Optimal Entry Guidance with Path Constraints [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
+- [C5] **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
+- [C4] Ma, H., Chen, Z., **Wang, K**. Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
+- [C3] Lu, F., Chen, Z., **Wang, K**. Learning-based Optimal Entry Guidance with Path Constraints [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
 - [C2]**Wang K**, Chen Z, et al. A New Smoothing Technique for Bang-Bang Optimal Control Problems [C]//**AIAA SciTech 2024 Forum**. 2024: 0727. 
--[C1] **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
+- [C1] **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
 
 # 🎖 Selected Honors and Awards
 - National Scholarship for Doctoral Graduate Students, Ministry of Education of the People's Republic of China. 
