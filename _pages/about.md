@@ -23,34 +23,41 @@ My research interests encompass a wide range of areas, including optimal guidanc
 - The work "Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control" has been accepted by **AUTOMATICA**.
 
 # 📝 Selected Journal Papers
+## Under review
+- **Wang K**, Nonlinear Guidance for Arrival Time and Angle Control Using Trajectory Shaping[J].
+- **Wang K**, Learning-Based Minimum-Time Optimal Guidance for Low-Thrust Spacecraft Rendezvous[C].
+- Ding C, **Wang K**, Guo Y, et al., Physics-Informed Trajectory Optimization for Terminal Guidance Based on Adjoint Control Transformation[J].
+- Lu F, Chen Z, **Wang K**. Nonlinear Optimal Guidance for Impact Time Control with Field-of-View Constraint[J]. 
 ## 2026
-- [12] **Wang K**, Ding C, Wei Z, Wang P, Chen Z. Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2026.
-- [11] **Wang K**, Wei Z, Wang P. [Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints](https://www.sciencedirect.com/science/article/pii/S1270963826005110)[J], <span style="color:red;"><em><strong>Aerospace Science and Technology</strong></em></span>, 2026.
-- [10] Wei Z, **Wang K**, Shao Z, Biegler LT. [Coordinated guidance and control for multiple parafoil system landing[J]](https://www.sciencedirect.com/science/article/pii/S0273117726002231), <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2026.
-- [9] **Wang K**, Armellin R, Evans A, et al. [Learning-Based Optimal Guidance for Spacecraft Close-Proximity Operations with Certified Stability](https://www.sciencedirect.com/science/article/pii/S0094576526000950?via%3Dihub) <span style="color:orange;"><em><strong>Acta Astronautica</strong></em></span>, 2026.
+- [J12] **Wang K**, Ding C, Wei Z, Wang P, Chen Z. Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2026.
+- [J11] **Wang K**, Wei Z, Wang P. [Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints](https://www.sciencedirect.com/science/article/pii/S1270963826005110)[J], <span style="color:red;"><em><strong>Aerospace Science and Technology</strong></em></span>, 2026.
+- [J10] Wei Z, **Wang K**, Shao Z, Biegler LT. [Coordinated guidance and control for multiple parafoil system landing[J]](https://www.sciencedirect.com/science/article/pii/S0273117726002231), <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2026.
+- [J9] **Wang K**, Armellin R, Evans A, et al. [Learning-Based Optimal Guidance for Spacecraft Close-Proximity Operations with Certified Stability](https://www.sciencedirect.com/science/article/pii/S0094576526000950?via%3Dihub) <span style="color:orange;"><em><strong>Acta Astronautica</strong></em></span>, 2026.
 
 ## 2025
-- [8] Wu F, Chen Z, Shao X, **Wang K**. [Nonlinear Optimal Guidance with Constraints on Impact Time and Impact Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2025,181,112500.
-- [7] **Wang K**, Lu F, Chen Z. [Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints](https://ieeexplore.ieee.org/document/10926912/)[J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>,2025, 61(4), 8907–8921.
+- [J8] Wu F, Chen Z, Shao X, **Wang K**. [Nonlinear Optimal Guidance with Constraints on Impact Time and Impact Angle](https://doi.org/10.1016/j.automatica.2025.112500)[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2025,181,112500.
+- [J7] **Wang K**, Lu F, Chen Z. [Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints](https://ieeexplore.ieee.org/document/10926912/)[J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>,2025, 61(4), 8907–8921.
 
 ## 2024
-- [6] **Wang K**, Lu F, Chen Z, et al. [A Physics-Informed Indirect Method for Trajectory Optimization](https://ieeexplore.ieee.org/document/10623330/) [J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>, 2024, 60(6), 9179-9192
-- [5] **Wang K**, Chen Z, Jun Li. [Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks](https://linkinghub.elsevier.com/retrieve/pii/S0273117724007154) [J], <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2024, 74(10): 5006-5022.
-- [4] **Wang K**, Lu F, Chen Z, et al. [Real-time optimal control for attitude-constrained solar sailcrafts via neural networks](https://linkinghub.elsevier.com/retrieve/pii/S0094576524000341)[J]. <span style="color:orange;"><em><strong>Acta Astronautica</strong></em></span>, 2024, 216: 446-458.
-- [3] **Wang K**, Chen Z, Jun Li. [Fuel-optimal trajectory planning for lunar vertical landing](https://www.worldscientific.com/doi/10.1142/S2737480724500110) [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
+- [J6] **Wang K**, Lu F, Chen Z, et al. [A Physics-Informed Indirect Method for Trajectory Optimization](https://ieeexplore.ieee.org/document/10623330/) [J], <span style="color:blue;"><em><strong>IEEE Transactions on Aerospace and Electronic Systems</strong></em></span>, 2024, 60(6), 9179-9192
+- [J5] **Wang K**, Chen Z, Jun Li. [Fuel-Optimal Powered Descent Guidance for Lunar Pinpoint Landing Using Neural Networks](https://linkinghub.elsevier.com/retrieve/pii/S0273117724007154) [J], <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2024, 74(10): 5006-5022.
+- [J4] **Wang K**, Lu F, Chen Z, et al. [Real-time optimal control for attitude-constrained solar sailcrafts via neural networks](https://linkinghub.elsevier.com/retrieve/pii/S0094576524000341)[J]. <span style="color:orange;"><em><strong>Acta Astronautica</strong></em></span>, 2024, 216: 446-458.
+- [J3] **Wang K**, Chen Z, Jun Li. [Fuel-optimal trajectory planning for lunar vertical landing](https://www.worldscientific.com/doi/10.1142/S2737480724500110) [J], **Guidance, Navigation, and Control**,2024,04(02):2450011.
 
 ## 2023
-- [2] Chen Z, **Wang K**, Shi H. [Elongation of curvature-bounded path](https://linkinghub.elsevier.com/retrieve/pii/S0005109823000869) [J]. <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>, 2023, 151: 110936.
+- [J2] Chen Z, **Wang K**, Shi H. [Elongation of curvature-bounded path](https://linkinghub.elsevier.com/retrieve/pii/S0005109823000869) [J]. <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>, 2023, 151: 110936.
 
 ## 2022
-- [1] **Wang K**, Chen Z, Han Wang, et al. [Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints](https://arc.aiaa.org/doi/10.2514/1.G006666)[J]. <span style="color:purple;"><em><strong> AIAA Journal of Guidance, Control, and Dynamics</strong></em></span>, 2022, 45(9): 1614-1626.
+- [J1] **Wang K**, Chen Z, Han Wang, et al. [Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints](https://arc.aiaa.org/doi/10.2514/1.G006666)[J]. <span style="color:purple;"><em><strong> AIAA Journal of Guidance, Control, and Dynamics</strong></em></span>, 2022, 45(9): 1614-1626.
 # 📝 Selected Conference Papers
-- **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control[C], 2026 EuroGNC.
-- **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
-- Ma, H., Chen, Z., **Wang, K**. Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
-- Lu, F., Chen, Z., **Wang, K**. Learning-based Optimal Entry Guidance with Path Constraints [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
-- **Wang K**, Chen Z, et al. A New Smoothing Technique for Bang-Bang Optimal Control Problems [C]//**AIAA SciTech 2024 Forum**. 2024: 0727. 
-- **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
+-[C7] **Wang K**.  Predictor-Corrector Nonlinear Arrival Time Control Guidance under Time-Varying Velocity[C], 2026 International Conference on Guidance, Navigation
+and Control (ICGNC 2026).
+- [C6] **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control[C], 2026 EuroGNC.
+-[C5] **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
+-[C4] Ma, H., Chen, Z., **Wang, K**. Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
+-[C3] Lu, F., Chen, Z., **Wang, K**. Learning-based Optimal Entry Guidance with Path Constraints [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
+- [C2]**Wang K**, Chen Z, et al. A New Smoothing Technique for Bang-Bang Optimal Control Problems [C]//**AIAA SciTech 2024 Forum**. 2024: 0727. 
+-[C1] **Wang K**, Chen Z, Li J. Real-Time Generation of Optimal Flight Trajectories via Shallow Neural Network [C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Singapore, 2021: 1668-1676.
 
 # 🎖 Selected Honors and Awards
 - National Scholarship for Doctoral Graduate Students, Ministry of Education of the People's Republic of China. 
