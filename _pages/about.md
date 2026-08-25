@@ -24,11 +24,13 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
 # 📝 Selected Journal Papers
 ## Under review
-- **Wang K**, Nonlinear Guidance for Arrival Time and Angle Control Using Trajectory Shaping[J].
+- **Wang K**, Nonlinear Guidance for Arrival Time and Angle Control Using Trajectory Shaping[C].
 - **Wang K**, Learning-Based Minimum-Time Optimal Guidance for Low-Thrust Spacecraft Rendezvous[C].
 - Ding C, **Wang K**, Guo Y, et al., Physics-Informed Trajectory Optimization for Terminal Guidance Based on Adjoint Control Transformation[J].
-- Lu F, Chen Z, **Wang K**. Nonlinear Optimal Guidance for Impact Time Control with Field-of-View Constraint[J]. 
+- **Wang K**.  Predictor-Corrector Nonlinear Arrival Time Control Guidance under Time-Varying Velocity[J].
+
 ## 2026
+- [J13] Lu F, Chen Z, **Wang K**. Nonlinear Optimal Guidance for Impact Time Control with Field-of-View Constraints[J]. <span style="color:purple;"><em><strong> AIAA Journal of Guidance, Control, and Dynamics</strong></em></span>, 2026.
 - [J12] **Wang K**, Ding C, Wei Z, Wang P, Chen Z. [Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control](https://www.sciencedirect.com/science/article/pii/S0005109826002918)[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2026. 
 - [J11] **Wang K**, Wei Z, Wang P. [Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints](https://www.sciencedirect.com/science/article/pii/S1270963826005110)[J], <span style="color:red;"><em><strong>Aerospace Science and Technology</strong></em></span>, 2026.
 - [J10] Wei Z, **Wang K**, Shao Z, Biegler LT. [Coordinated guidance and control for multiple parafoil system landing[J]](https://www.sciencedirect.com/science/article/pii/S0273117726002231), <span style="color:green;"><em><strong>Advances in Space Research</strong></em></span>, 2026.
@@ -50,8 +52,6 @@ My research interests encompass a wide range of areas, including optimal guidanc
 ## 2022
 - [J1] **Wang K**, Chen Z, Han Wang, et al. [Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints](https://arc.aiaa.org/doi/10.2514/1.G006666)[J]. <span style="color:purple;"><em><strong> AIAA Journal of Guidance, Control, and Dynamics</strong></em></span>, 2022, 45(9): 1614-1626.
 # 📝 Selected Conference Papers
-- [C7] **Wang K**.  Predictor-Corrector Nonlinear Arrival Time Control Guidance under Time-Varying Velocity[C], 2026 International Conference on Guidance, Navigation
-and Control (ICGNC 2026).
 - [C6] **Wang K**. Trajectory Shaping Guidance for Field-of-View Constrained Impact Angle Control[C], 2026 EuroGNC.
 - [C5] **Wang K**, Chen Z, Lu F, et al. Neural-Network-Based Optimal Guidance for Lunar Vertical Landing [C], **2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
 - [C4] Ma, H., Chen, Z., **Wang, K**. Learning-Based Optimal Guidance for Hypersonic Reentry Using a Barrier Function [C].**2024 IEEE 18th International Conference on Control & Automation (ICCA)**.
