@@ -27,9 +27,10 @@ My research interests encompass a wide range of areas, including optimal guidanc
 - **Wang K**, Nonlinear Guidance for Arrival Time and Angle Control Using Trajectory Shaping[C].
 - **Wang K**, Learning-Based Minimum-Time Optimal Guidance for Low-Thrust Spacecraft Rendezvous[C].
 - Ding C, **Wang K**, Guo Y, et al., Physics-Informed Trajectory Optimization for Terminal Guidance Based on Adjoint Control Transformation[J].
-- **Wang K**.  Predictor-Corrector Nonlinear Arrival Time Control Guidance under Time-Varying Velocity[J].
+
 
 ## 2026
+- [J14] **Wang K**.  Xu Y, Predictor-Corrector Nonlinear Arrival Time Control Guidance under Time-Varying Velocity[J]. **Guidance, Navigation, and Control**,2026.
 - [J13] Lu F, Chen Z, **Wang K**. Nonlinear Optimal Guidance for Impact Time Control with Field-of-View Constraints[J]. <span style="color:purple;"><em><strong> AIAA Journal of Guidance, Control, and Dynamics</strong></em></span>, 2026.
 - [J12] **Wang K**, Ding C, Wei Z, Wang P, Chen Z. [Guaranteeing Convergence in Trajectory Shaping Guidance for Impact Time Control](https://www.sciencedirect.com/science/article/pii/S0005109826002918)[J], <span style="color:#FF4500;"><em><strong>Automatica</strong></em></span>,2026. 
 - [J11] **Wang K**, Wei Z, Wang P. [Look-Angle-Shaped Impact Time Control Guidance with Field-of-View Constraints](https://www.sciencedirect.com/science/article/pii/S1270963826005110)[J], <span style="color:red;"><em><strong>Aerospace Science and Technology</strong></em></span>, 2026.
