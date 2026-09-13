@@ -68,7 +68,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
 <div class="paper-list">
   <article class="paper-card">
     <div class="paper-card__media">
-      <img src="/images/papers/j14.svg" alt="Placeholder preview for predictor-corrector arrival time control paper" loading="lazy">
+      <img src="/images/papers/j14.png" alt="Placeholder preview for predictor-corrector arrival time control paper" loading="lazy">
     </div>
     <div class="paper-card__body">
       <div class="paper-card__topline"><span class="paper-card__id">J14</span><span class="paper-card__tag">Arrival-time control</span></div>
