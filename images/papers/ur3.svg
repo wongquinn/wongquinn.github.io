@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Paper figure preview placeholder</title>
+  <desc id="desc">A clean trajectory-style placeholder for a paper figure preview.</desc>
+  <rect width="900" height="560" fill="#f6f7f3"/>
+  <rect x="70" y="58" width="760" height="444" rx="18" fill="#ffffff" stroke="#d9dfd2" stroke-width="2"/>
+  <rect x="98" y="92" width="250" height="16" rx="8" fill="#dfe7df"/>
+  <rect x="98" y="122" width="410" height="10" rx="5" fill="#edf1ec"/>
+  <rect x="98" y="144" width="360" height="10" rx="5" fill="#edf1ec"/>
+  <g transform="translate(116 202)">
+    <line x1="0" y1="230" x2="632" y2="230" stroke="#cfd7ca" stroke-width="3"/>
+    <line x1="0" y1="0" x2="0" y2="230" stroke="#cfd7ca" stroke-width="3"/>
+    <path d="M22 198 C130 118 195 114 272 158 C356 206 442 106 610 42" fill="none" stroke="#0f766e" stroke-width="7" stroke-linecap="round"/>
+    <path d="M22 210 C126 196 226 180 318 136 C426 84 518 80 610 102" fill="none" stroke="#d97706" stroke-width="5" stroke-linecap="round" stroke-dasharray="14 14"/>
+    <circle cx="22" cy="198" r="12" fill="#0f766e"/>
+    <circle cx="610" cy="42" r="12" fill="#b91c1c"/>
+    <rect x="432" y="156" width="152" height="46" rx="6" fill="#f9faf7" stroke="#d9dfd2"/>
+    <text x="454" y="185" font-family="Arial, sans-serif" font-size="18" fill="#44524a">figure pending</text>
+  </g>
+  <text x="98" y="468" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#22312b">Paper preview</text>
+  <text x="98" y="494" font-family="Arial, sans-serif" font-size="18" fill="#66736b">Replace this SVG with a screenshot from the paper.</text>
+</svg>
