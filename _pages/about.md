@@ -239,10 +239,10 @@ My research interests encompass a wide range of areas, including optimal guidanc
       <img src="/images/papers/j1.png" alt="Preview of impact-time constrained nonlinear optimal guidance paper" loading="lazy">
     </a>
     <div class="paper-card__body">
-      <div class="paper-card__topline"><span class="paper-card__id">J1</span><span class="paper-card__tag">Impact-time guidance</span></div>
+      <div class="paper-card__topline"><span class="paper-card__id">J1</span><span class="paper-card__tag">Real-time optimal guidance</span></div>
       <h3><a href="https://arc.aiaa.org/doi/10.2514/1.G006666">Nonlinear Optimal Guidance for Intercepting Stationary Targets with Impact-Time Constraints</a></h3>
       <p class="paper-card__meta"><strong>Wang K</strong>, Chen Z, Han Wang, et al. <em>AIAA Journal of Guidance, Control, and Dynamics</em>, 2022, 45(9), 1614-1626.</p>
-      <p class="paper-card__summary">This work builds a real-time nonlinear optimal guidance law for intercepting a stationary target at a prescribed time. PMP-based parameterization generates training data for a feedforward network that maps state and time-to-go directly to the optimal command.</p>
+      <p class="paper-card__summary">This work builds a real-time nonlinear optimal guidance law for guiding a constant-speed vehicle to reach a position at a desired time. PMP-based parameterization generates training data for a feedforward network that maps state and time-to-go directly to the optimal command.</p>
     </div>
   </article>
 </div>
