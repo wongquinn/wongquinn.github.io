@@ -74,6 +74,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - .github
+  - backups
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -91,6 +92,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - work
 keep_files:
   - .git
   - .svn
@@ -161,3 +163,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
