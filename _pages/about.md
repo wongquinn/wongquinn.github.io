@@ -92,7 +92,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
   <article class="paper-card">
     <a class="paper-card__media" href="https://www.sciencedirect.com/science/article/pii/S0005109826002918">
-      <img src="/images/papers/j12.svg" alt="Placeholder preview for trajectory shaping convergence paper" loading="lazy">
+      <img src="/images/papers/j12.png" alt="Placeholder preview for trajectory shaping convergence paper" loading="lazy">
     </a>
     <div class="paper-card__body">
       <div class="paper-card__topline"><span class="paper-card__id">J12</span><span class="paper-card__tag">Convergence guarantee</span></div>
@@ -104,7 +104,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
   <article class="paper-card">
     <a class="paper-card__media" href="https://www.sciencedirect.com/science/article/pii/S1270963826005110">
-      <img src="/images/papers/j11.svg" alt="Placeholder preview for look-angle-shaped impact time control paper" loading="lazy">
+      <img src="/images/papers/j11.png" alt="Placeholder preview for look-angle-shaped impact time control paper" loading="lazy">
     </a>
     <div class="paper-card__body">
       <div class="paper-card__topline"><span class="paper-card__id">J11</span><span class="paper-card__tag">Field-of-view</span></div>
@@ -128,7 +128,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
   <article class="paper-card">
     <a class="paper-card__media" href="https://www.sciencedirect.com/science/article/pii/S0094576526000950?via%3Dihub">
-      <img src="/images/papers/j9.svg" alt="Placeholder preview for certified-stability spacecraft rendezvous paper" loading="lazy">
+      <img src="/images/papers/j9.png" alt="Placeholder preview for certified-stability spacecraft rendezvous paper" loading="lazy">
     </a>
     <div class="paper-card__body">
       <div class="paper-card__topline"><span class="paper-card__id">J9</span><span class="paper-card__tag">Certified learning</span></div>
@@ -146,7 +146,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
       <img src="/images/papers/j8.png" alt="Preview of nonlinear optimal guidance with impact time and angle constraints paper" loading="lazy">
     </a>
     <div class="paper-card__body">
-      <div class="paper-card__topline"><span class="paper-card__id">J8</span><span class="paper-card__tag">Impact time and angle</span></div>
+      <div class="paper-card__topline"><span class="paper-card__id">J8</span><span class="paper-card__tag">Real-time optimal guidance</span></div>
       <h3><a href="https://doi.org/10.1016/j.automatica.2025.112500">Nonlinear Optimal Guidance with Constraints on Impact Time and Impact Angle</a></h3>
       <p class="paper-card__meta">Wu F, Chen Z, Shao X, <strong>Wang K</strong>. <em>Automatica</em>, 2025, 181, 112500.</p>
       <p class="paper-card__summary">This work treats simultaneous impact-time and impact-angle control as a nonlinear minimum-effort guidance problem. Pontryagin-based parameterization and scaling properties make it possible to train a compact neural network that generates locally optimal commands in milliseconds.</p>
@@ -155,13 +155,13 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
   <article class="paper-card">
     <a class="paper-card__media" href="https://ieeexplore.ieee.org/document/10926912/">
-      <img src="/images/papers/j7.svg" alt="Placeholder preview for acceleration-constrained impact angle guidance paper" loading="lazy">
+      <img src="/images/papers/j7.png" alt="Placeholder preview for acceleration-constrained impact angle guidance paper" loading="lazy">
     </a>
     <div class="paper-card__body">
-      <div class="paper-card__topline"><span class="paper-card__id">J7</span><span class="paper-card__tag">Acceleration constraints</span></div>
+      <div class="paper-card__topline"><span class="paper-card__id">J7</span><span class="paper-card__tag">Optimal guidance with terminal acceleration constraints</span></div>
       <h3><a href="https://ieeexplore.ieee.org/document/10926912/">Nonlinear Optimal Impact Angle Control Guidance Considering Acceleration Constraints</a></h3>
       <p class="paper-card__meta"><strong>Wang K</strong>, Lu F, Chen Z. <em>IEEE Transactions on Aerospace and Electronic Systems</em>, 2025, 61(4), 8907-8921.</p>
-      <p class="paper-card__summary">The article designs impact-angle guidance for varying-speed interceptors with maximum-acceleration and zero-terminal-acceleration constraints. Regularization, saturation, and a neural-network implementation are combined with feedback guidance for practical real-time use.</p>
+      <p class="paper-card__summary">The article designs impact-angle guidance for varying-speed vehicles with maximum-acceleration and zero-terminal-acceleration constraints. Regularization, saturation, and a neural-network implementation are combined with feedback guidance for practical real-time use.</p>
     </div>
   </article>
 </div>
@@ -173,7 +173,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
       <img src="/images/papers/j6.png" alt="Preview of physics-informed indirect method paper" loading="lazy">
     </a>
     <div class="paper-card__body">
-      <div class="paper-card__topline"><span class="paper-card__id">J6</span><span class="paper-card__tag">Trajectory optimization</span></div>
+      <div class="paper-card__topline"><span class="paper-card__id">J6</span><span class="paper-card__tag">Highly efficient trajectory optimization</span></div>
       <h3><a href="https://ieeexplore.ieee.org/document/10623330/">A Physics-Informed Indirect Method for Trajectory Optimization</a></h3>
       <p class="paper-card__meta"><strong>Wang K</strong>, Lu F, Chen Z, et al. <em>IEEE Transactions on Aerospace and Electronic Systems</em>, 2024, 60(6), 9179-9192.</p>
       <p class="paper-card__summary">The paper narrows the indirect-method shooting space by embedding physical information about flight time, costates, and terminal control. This physics-informed initialization makes soft-landing trajectory optimization faster and more robust, especially when paired with homotopy.</p>
@@ -194,10 +194,10 @@ My research interests encompass a wide range of areas, including optimal guidanc
 
   <article class="paper-card">
     <a class="paper-card__media" href="https://linkinghub.elsevier.com/retrieve/pii/S0094576524000341">
-      <img src="/images/papers/j4.svg" alt="Placeholder preview for solar sailcraft real-time optimal control paper" loading="lazy">
+      <img src="/images/papers/j4.png" alt="Placeholder preview for solar sailcraft real-time optimal control paper" loading="lazy">
     </a>
     <div class="paper-card__body">
-      <div class="paper-card__topline"><span class="paper-card__id">J4</span><span class="paper-card__tag">Solar sailing</span></div>
+      <div class="paper-card__topline"><span class="paper-card__id">J4</span><span class="paper-card__tag">Real-time optimal guidance for solar sailing</span></div>
       <h3><a href="https://linkinghub.elsevier.com/retrieve/pii/S0094576524000341">Real-Time Optimal Control for Attitude-Constrained Solar Sailcrafts via Neural Networks</a></h3>
       <p class="paper-card__meta"><strong>Wang K</strong>, Lu F, Chen Z, et al. <em>Acta Astronautica</em>, 2024, 216, 446-458.</p>
       <p class="paper-card__summary">This paper develops real-time optimal control for solar-sail transfers while respecting attitude constraints. It preprocesses discontinuous optimal commands and uses cooperating neural networks to recover the original optimal sail attitude online.</p>
@@ -209,7 +209,7 @@ My research interests encompass a wide range of areas, including optimal guidanc
       <img src="/images/papers/j3.png" alt="Preview of lunar vertical landing trajectory planning paper" loading="lazy">
     </a>
     <div class="paper-card__body">
-      <div class="paper-card__topline"><span class="paper-card__id">J3</span><span class="paper-card__tag">Lunar landing</span></div>
+      <div class="paper-card__topline"><span class="paper-card__id">J3</span><span class="paper-card__tag">Optimal lunar landing with terminal control constraint</span></div>
       <h3><a href="https://www.worldscientific.com/doi/10.1142/S2737480724500110">Fuel-Optimal Trajectory Planning for Lunar Vertical Landing</a></h3>
       <p class="paper-card__meta"><strong>Wang K</strong>, Chen Z, Jun Li. <em>Guidance, Navigation, and Control</em>, 2024, 04(02), 2450011.</p>
       <p class="paper-card__summary">The vertical landing requirement is reformulated as a final steering-angle constraint and embedded through a regularized cost functional. A transformation and bisection procedure then support indirect shooting for fuel-optimal lunar vertical landing trajectories.</p>
